@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Hello, I am Vivek Raj 
 
-🔭 I’m currently working on Website and Game Devolopment. With tools for Linux Administration
-🌱 I’m currently learning on Communication Systems.
-📫 I'm planning to make my personal website soon.
+- 🔭 I’m currently working on Website and Game Devolopment. With tools for Linux Administration
+- 🌱 I’m currently learning on Communication Systems.
+- 📫 I'm planning to make my personal website soon.
