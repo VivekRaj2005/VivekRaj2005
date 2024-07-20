@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-raj-1080aa28a/)
 
 ## Github Status
+#####
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekRaj2005&show_icons=true&theme=dracula)
+#####
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekRaj2005&show_icons=true&theme=dracula)]
 ## Technology that I use/ Have used
 
 ### My Main Technology:
