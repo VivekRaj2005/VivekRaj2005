@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - 📫 I'm planning to make my personal website soon.
 
 ## My Contact
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ice71594/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (VivekRaj27082005@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ice71594/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (VivekRaj27082005@gmail.com)
 
 ## Technology that I use/ Have used
 
