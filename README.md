@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 (I use Arch BTW)
 
 <!--
 **VivekRaj2005/VivekRaj2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello, I am Vivek Raj 
+
+🔭 I’m currently working on Website and Game Devolopment. With tools for Linux Administration
+🌱 I’m currently learning on Communication Systems.
+📫 I'm planning to make my personal website soon.
